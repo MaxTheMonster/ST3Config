@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+$(document).ready(function() {
+  
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>ready</tabTrigger> 
+</snippet>

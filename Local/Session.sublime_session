@@ -1,0 +1,3360 @@
+{
+	"folder_history":
+	[
+		"/B/Sites/MaxUngless",
+		"/B/Python",
+		"/B/Sites/Frog",
+		"/B/Downloads/django-cbvs/s2v4",
+		"/B/Sites/UnglessLocal",
+		"/B/Python/MachineLearning",
+		"/B/Sites/PHHPS",
+		"/B/Sites/LatinVocab",
+		"/B/Sites/CodeDictionary_2",
+		"/B/exercism/python",
+		"/B/Sites/JavaScript30/JavaScript30-master",
+		"/B/Sites/Bulma",
+		"/B/Sites/CodeDictionary",
+		"/B/Sites/CodeDictionaryFlask",
+		"/B/Sites/Annyang",
+		"/B/Sites/DailyHandwriting",
+		"/B/Sites/HairdresserConcept",
+		"/B/Sites/MaxUnglessV4",
+		"/B/Sites/MaxUnglessV4/src",
+		"/B/Sites/Blog",
+		"/B/Sites/CompanyLogos",
+		"/B/Sites/LeafletMaps",
+		"/B/Sites/DictateToMe",
+		"/B/Sites/YRSSnapimal"
+	],
+	"last_version": 3126,
+	"last_window_id": 67,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1112.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "a file",
+				"selected_items":
+				[
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 703.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/B/Sites/UnglessLocal/UnglessLocal/settings.py",
+				"/B/Sites/UnglessLocal/ItemTracker/views.py",
+				"/B/Sites/UnglessLocal/templates/index.html",
+				"/B/Sites/UnglessLocal/qrcodes.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Sites/UnglessLocal/ItemTracker/models.py",
+				"/B/Sites/UnglessLocal/out.png",
+				"/B/Sites/UnglessLocal/ungless.eps",
+				"/B/Sites/UnglessLocal/ungless.svg",
+				"/B/Sites/UnglessLocal/qrcodes/5.png",
+				"/B/Sites/UnglessLocal/qrcodes/1.png",
+				"/B/Sites/UnglessLocal/qrcodes/2.png",
+				"/B/Sites/UnglessLocal/qrcodes/3.png",
+				"/B/Sites/UnglessLocal/qrcodes/4.png",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/B/Sites/UnglessLocal/ungless.png",
+				"/B/Sites/UnglessLocal/qrcodes.png",
+				"/B/Sites/UnglessLocal/media/items/8CIai6e.jpg",
+				"/B/Sites/UnglessLocal/media/items/6d4rnX1.jpg",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"/')",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 267.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1918.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+					"settings":
+					{
+						"buffer_size": 1244,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+					"settings":
+					{
+						"buffer_size": 439,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+					"settings":
+					{
+						"buffer_size": 1766,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates/teams/team_confirm_delete.html",
+					"settings":
+					{
+						"buffer_size": 275,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates/teams/team_detail.html",
+					"settings":
+					{
+						"buffer_size": 630,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates/teams/team_list.html",
+					"settings":
+					{
+						"buffer_size": 563,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates/teams/_layout.html",
+					"settings":
+					{
+						"buffer_size": 465,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+					"settings":
+					{
+						"buffer_size": 518,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+					"settings":
+					{
+						"buffer_size": 979,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "a file",
+				"selected_items":
+				[
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 703.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Downloads/django-cbvs/s2v4",
+				"/B/Downloads/django-cbvs/s2v4/djangoal",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates/teams"
+			],
+			"file_history":
+			[
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Downloads\\django-cbvs\\s2v4"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1244,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										158,
+										158
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1118.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 439,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1766,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1542,
+										1523
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 560.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates/teams/team_confirm_delete.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 275,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										275,
+										275
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates/teams/team_detail.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 630,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										614,
+										614
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates/teams/team_list.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 563,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										107,
+										107
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/B/Downloads/django-cbvs/s2v4/djangoal/teams/templates/teams/_layout.html",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 465,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										465,
+										465
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 518,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										473,
+										445
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 979,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										716,
+										716
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,1635,112,760,2442",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 267.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 63,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Sites/MaxUngless/admin.txt",
+					"settings":
+					{
+						"buffer_size": 21,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "a file",
+				"selected_items":
+				[
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 703.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Sites/MaxUngless"
+			],
+			"file_history":
+			[
+				"/B/Sites/UnglessLocal/UnglessLocal/settings.py",
+				"/B/Sites/UnglessLocal/ItemTracker/views.py",
+				"/B/Sites/UnglessLocal/templates/index.html",
+				"/B/Sites/UnglessLocal/qrcodes.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Sites/UnglessLocal/ItemTracker/models.py",
+				"/B/Sites/UnglessLocal/out.png",
+				"/B/Sites/UnglessLocal/ungless.eps",
+				"/B/Sites/UnglessLocal/ungless.svg",
+				"/B/Sites/UnglessLocal/qrcodes/5.png",
+				"/B/Sites/UnglessLocal/qrcodes/1.png",
+				"/B/Sites/UnglessLocal/qrcodes/2.png",
+				"/B/Sites/UnglessLocal/qrcodes/3.png",
+				"/B/Sites/UnglessLocal/qrcodes/4.png",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/B/Sites/UnglessLocal/ungless.png",
+				"/B/Sites/UnglessLocal/qrcodes.png",
+				"/B/Sites/UnglessLocal/media/items/8CIai6e.jpg",
+				"/B/Sites/UnglessLocal/media/items/6d4rnX1.jpg",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"/')",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Sites\\MaxUngless"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Sites/MaxUngless/admin.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20,
+										20
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,1450,758,266,2694",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 267.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 67,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Sites/Frog/VLE/models.py",
+					"settings":
+					{
+						"buffer_size": 722,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/Frog/templates/VLE/index.html",
+					"settings":
+					{
+						"buffer_size": 337,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Frog/templates/VLE/subject.html",
+					"settings":
+					{
+						"buffer_size": 465,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Frog/templates/VLE/base.html",
+					"settings":
+					{
+						"buffer_size": 749,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Frog/Frog/settings.py",
+					"settings":
+					{
+						"buffer_size": 3381,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/Frog/VLE/tests.py",
+					"settings":
+					{
+						"buffer_size": 60,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/Frog/VLE/views.py",
+					"settings":
+					{
+						"buffer_size": 1643,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "a file",
+				"selected_items":
+				[
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 703.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Sites/Frog",
+				"/B/Sites/Frog/Frog",
+				"/B/Sites/Frog/templates",
+				"/B/Sites/Frog/templates/VLE",
+				"/B/Sites/Frog/VLE"
+			],
+			"file_history":
+			[
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"static",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Sites\\Frog"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Sites/Frog/VLE/models.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 722,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										119,
+										119
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/B/Sites/Frog/templates/VLE/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 337,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										337,
+										337
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/B/Sites/Frog/templates/VLE/subject.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 465,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										103,
+										103
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/B/Sites/Frog/templates/VLE/base.html",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 749,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										515,
+										515
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/B/Sites/Frog/Frog/settings.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3381,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3011,
+										3011
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2803.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/B/Sites/Frog/VLE/tests.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 60,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/B/Sites/Frog/VLE/views.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1643,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										766,
+										766
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 281.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,1397,128,98,2458",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 267.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 64,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Sites/LatinVocab/vocabsearch/views.py",
+					"settings":
+					{
+						"buffer_size": 2251,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/LatinVocab/templates/vocabsearch/index.html",
+					"settings":
+					{
+						"buffer_size": 2596,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/LatinVocab/LatinVocab/settings.py",
+					"settings":
+					{
+						"buffer_size": 3466,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/LatinVocab/vocab.txt",
+					"settings":
+					{
+						"buffer_size": 30871,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/LatinVocab/pop.py",
+					"settings":
+					{
+						"buffer_size": 472,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/LatinVocab/LatinVocab/urls.py",
+					"settings":
+					{
+						"buffer_size": 990,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/LatinVocab/templates/vocabsearch/take_test.html",
+					"settings":
+					{
+						"buffer_size": 5244,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/LatinVocab/templates/vocabsearch/test.html",
+					"settings":
+					{
+						"buffer_size": 2377,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/LatinVocab/static/styles.css",
+					"settings":
+					{
+						"buffer_size": 6240,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 747.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Sites/LatinVocab",
+				"/B/Sites/LatinVocab/LatinVocab",
+				"/B/Sites/LatinVocab/templates",
+				"/B/Sites/LatinVocab/templates/vocabsearch",
+				"/B/Sites/LatinVocab/vocabsearch"
+			],
+			"file_history":
+			[
+				"/B/Sites/LatinVocab/db.sqlite3",
+				"/B/Sites/LatinVocab/vocab.txt",
+				"/B/Sites/LatinVocab/templates/ajax_search.html",
+				"/B/Sites/LatinVocab/vocabsearch/models.py",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"abl)",
+					"acc)",
+					" /",
+					"(indeclinable)",
+					"deponent",
+					".word",
+					"#test",
+					"word",
+					"bold",
+					")\n",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ablative)",
+					"accusative)",
+					"/",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Sites\\LatinVocab"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Sites/LatinVocab/vocabsearch/views.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2251,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										501,
+										501
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/B/Sites/LatinVocab/templates/vocabsearch/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2596,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1258,
+										1258
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 186.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/B/Sites/LatinVocab/LatinVocab/settings.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3466,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2528,
+										2528
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2423.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/B/Sites/LatinVocab/vocab.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 30871,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										27230,
+										27230
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 11630.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/B/Sites/LatinVocab/pop.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 472,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9,
+										9
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/B/Sites/LatinVocab/LatinVocab/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 990,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										642,
+										642
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/B/Sites/LatinVocab/templates/vocabsearch/take_test.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5244,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4284,
+										4284
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3074.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/B/Sites/LatinVocab/templates/vocabsearch/test.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2377,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										395,
+										395
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/B/Sites/LatinVocab/static/styles.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6240,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4097,
+										4097
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6205.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1568,876,554,2739",
+			"project": "",
+			"replace":
+			{
+				"height": 110.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 227.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 56,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Sites/UnglessLocal/templates/ItemTracker/index.html",
+					"settings":
+					{
+						"buffer_size": 555,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/UnglessLocal/templates/ItemTracker/item_confirm_delete.html",
+					"settings":
+					{
+						"buffer_size": 317,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/UnglessLocal/templates/ItemTracker/item.html",
+					"settings":
+					{
+						"buffer_size": 782,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/UnglessLocal/ItemTracker/admin.py",
+					"settings":
+					{
+						"buffer_size": 120,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/UnglessLocal/UnglessLocal/views.py",
+					"settings":
+					{
+						"buffer_size": 1486,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/UnglessLocal/ItemTracker/views.py",
+					"settings":
+					{
+						"buffer_size": 1169,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/UnglessLocal/templates/login.html",
+					"settings":
+					{
+						"buffer_size": 206,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/UnglessLocal/ItemTracker/urls.py",
+					"settings":
+					{
+						"buffer_size": 439,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+					"settings":
+					{
+						"buffer_size": 548,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "a file",
+				"selected_items":
+				[
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 703.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Sites/UnglessLocal",
+				"/B/Sites/UnglessLocal/ItemTracker",
+				"/B/Sites/UnglessLocal/media",
+				"/B/Sites/UnglessLocal/static",
+				"/B/Sites/UnglessLocal/templates",
+				"/B/Sites/UnglessLocal/templates/ItemTracker",
+				"/B/Sites/UnglessLocal/UnglessLocal"
+			],
+			"file_history":
+			[
+				"/B/Sites/UnglessLocal/UnglessLocal/settings.py",
+				"/B/Sites/UnglessLocal/ItemTracker/views.py",
+				"/B/Sites/UnglessLocal/templates/index.html",
+				"/B/Sites/UnglessLocal/qrcodes.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Sites/UnglessLocal/ItemTracker/models.py",
+				"/B/Sites/UnglessLocal/out.png",
+				"/B/Sites/UnglessLocal/ungless.eps",
+				"/B/Sites/UnglessLocal/ungless.svg",
+				"/B/Sites/UnglessLocal/qrcodes/5.png",
+				"/B/Sites/UnglessLocal/qrcodes/1.png",
+				"/B/Sites/UnglessLocal/qrcodes/2.png",
+				"/B/Sites/UnglessLocal/qrcodes/3.png",
+				"/B/Sites/UnglessLocal/qrcodes/4.png",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/B/Sites/UnglessLocal/ungless.png",
+				"/B/Sites/UnglessLocal/qrcodes.png",
+				"/B/Sites/UnglessLocal/media/items/8CIai6e.jpg",
+				"/B/Sites/UnglessLocal/media/items/6d4rnX1.jpg",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"/')",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Sites\\UnglessLocal"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Sites/UnglessLocal/templates/ItemTracker/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 555,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										105,
+										105
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/B/Sites/UnglessLocal/templates/ItemTracker/item_confirm_delete.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 317,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										302,
+										130
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/B/Sites/UnglessLocal/templates/ItemTracker/item.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 782,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										573,
+										573
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/B/Sites/UnglessLocal/ItemTracker/admin.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 120,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										120,
+										120
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/B/Sites/UnglessLocal/UnglessLocal/views.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1486,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1239,
+										1239
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 93.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/B/Sites/UnglessLocal/ItemTracker/views.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1169,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/B/Sites/UnglessLocal/templates/login.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 206,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										145,
+										145
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/B/Sites/UnglessLocal/ItemTracker/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 439,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										386,
+										386
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 548,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										459,
+										459
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1190,1920,6,3840",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 267.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 61,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

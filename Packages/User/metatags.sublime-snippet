@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<meta charset="UTF-8">
+<meta name="description" content="${1:description}">
+<meta name="keywords" content="${2:keywords}">
+<meta name="author" content="${3:author}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>metatags</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>*.html, *.php</scope>
+</snippet>

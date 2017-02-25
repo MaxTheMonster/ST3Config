@@ -1,0 +1,54 @@
+{
+	"added_words":
+	[
+		"wikipedia",
+		"https",
+		"wiki",
+		"org",
+		"Django",
+		"Ungless",
+		"Max"
+	],
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"fade_fold_buttons": false,
+	"font_face": "Roboto Mono",
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_height": 1.5,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"sidebar_font_big": true,
+	"spell_check": false,
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_accent_orange": true,
+	"theme_autocomplete_item_selected_colored": true,
+	"theme_icons_materialized": true,
+	"theme_popup_border_visible": true,
+	"theme_sidebar_folder_atomized": true,
+	"theme_sidebar_folder_mono": true,
+	"theme_sidebar_indent_xl": true,
+	"theme_sidebar_size_xl": true,
+	"theme_tab_line_size_lg": true,
+	"theme_tab_rounded": true,
+	"theme_tab_selected_underlined": true,
+	"theme_tab_size_xxl": true,
+	"theme_tab_width_auto": true,
+	"wide_caret": true,
+	"word_wrap": true
+}
