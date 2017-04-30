@@ -1,0 +1,4189 @@
+{
+	"folder_history":
+	[
+		"/B/Coding/91XBot",
+		"/B/Sites/DailyHandwritingDjango",
+		"/B/Coding/Python",
+		"/B/Sites/DailyHandwritingApp",
+		"/B/Sites/UnglessLocal",
+		"/B/Coding/Go",
+		"/B/Sites/LatinVocab",
+		"/B/Sites/JavaScript30/JavaScript30-master",
+		"/B/Python",
+		"/B/Sites/Lighability",
+		"/B/Sites/FlossieHack",
+		"/B/Sites/CeliaFrancis",
+		"/B/Python/MachineLearning",
+		"/B/Sites/WebSpeech",
+		"/B/Sites/MaxUngless",
+		"/B/Sites/Frog",
+		"/B/Downloads/django-cbvs/s2v4",
+		"/B/Sites/PHHPS",
+		"/B/Sites/CodeDictionary_2",
+		"/B/exercism/python",
+		"/B/Sites/Bulma",
+		"/B/Sites/CodeDictionary",
+		"/B/Sites/CodeDictionaryFlask",
+		"/B/Sites/Annyang",
+		"/B/Sites/DailyHandwriting",
+		"/B/Sites/HairdresserConcept",
+		"/B/Sites/MaxUnglessV4",
+		"/B/Sites/MaxUnglessV4/src",
+		"/B/Sites/Blog",
+		"/B/Sites/CompanyLogos",
+		"/B/Sites/LeafletMaps",
+		"/B/Sites/DictateToMe",
+		"/B/Sites/YRSSnapimal"
+	],
+	"last_version": 3126,
+	"last_window_id": 92,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1144.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"str",
+						"strconv"
+					],
+					[
+						"Login",
+						"LoginRequiredMixin"
+					],
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax css",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax scs",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 747.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/B/Coding/Python/prime.txt",
+				"/B/Coding/Go/GeneralSrc/prime.txt",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/12_if_else-if_else/01_eval-true/main.go",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/01_getting-started/01_helloWorld/main.go",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/B/Sites/Lighability/companies/views.py",
+				"/B/Sites/Lighability/static/scss/styles.scss",
+				"/B/Sites/Lighability/templates/base.html",
+				"/B/Sites/Lighability/templates/companies/user_detail.html",
+				"/B/Sites/Lighability/templates/index.html",
+				"/B/Sites/Lighability/companies/admin.py",
+				"/B/Sites/Lighability/templates/add_company.html",
+				"/B/Sites/Lighability/static/scss/back.txt",
+				"/B/Sites/Lighability/templates/includes/company_info.html",
+				"/B/Sites/Lighability/templates/company_detail.html",
+				"/B/Sites/Lighability/Lighability/settings.py",
+				"/B/Sites/Lighability/.gitignore",
+				"/B/Sites/Lighability/companies/migrations/0001_initial.py",
+				"/B/Sites/Lighability/companies/migrations/0002_auto_20170316_2120.py",
+				"/B/Sites/Lighability/companies/migrations/0008_auto_20170316_2112.py",
+				"/B/Python/LessonsSkill/intent.json",
+				"/B/Python/LessonsSkill/samples.txt",
+				"/B/Python/LessonsSkill/lambda_function.py",
+				"/B/Python/LessonsSkill/lambdafunction.py",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/template.yaml",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/lambda_function.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/settings.py",
+				"/B/Sites/UnglessLocal/ItemTracker/views.py",
+				"/B/Sites/UnglessLocal/templates/index.html",
+				"/B/Sites/UnglessLocal/qrcodes.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Sites/UnglessLocal/ItemTracker/models.py",
+				"/B/Sites/UnglessLocal/out.png",
+				"/B/Sites/UnglessLocal/ungless.eps",
+				"/B/Sites/UnglessLocal/ungless.svg",
+				"/B/Sites/UnglessLocal/qrcodes/5.png",
+				"/B/Sites/UnglessLocal/qrcodes/1.png",
+				"/B/Sites/UnglessLocal/qrcodes/2.png",
+				"/B/Sites/UnglessLocal/qrcodes/3.png",
+				"/B/Sites/UnglessLocal/qrcodes/4.png",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/B/Sites/UnglessLocal/ungless.png",
+				"/B/Sites/UnglessLocal/qrcodes.png",
+				"/B/Sites/UnglessLocal/media/items/8CIai6e.jpg",
+				"/B/Sites/UnglessLocal/media/items/6d4rnX1.jpg",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 162.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"in",
+					"3",
+					"expand",
+					"POST",
+					"latitude",
+					"%}\n",
+					"companies",
+					"'edit'",
+					"reverse",
+					"companies/",
+					"user_detail.html",
+					"h2",
+					"user_detail",
+					"\">\n",
+					"User,",
+					"company_id",
+					"/')",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"n",
+					"MyUser,",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 110.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1902.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"str",
+						"strconv"
+					],
+					[
+						"Login",
+						"LoginRequiredMixin"
+					],
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Coding/Python/deleteline.py",
+					"settings":
+					{
+						"buffer_size": 209,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax css",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax scs",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 747.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Coding/Python"
+			],
+			"file_history":
+			[
+				"/B/Coding/Python/newprime.txt",
+				"/B/Coding/Python/prime.txt",
+				"/B/Coding/Go/GeneralSrc/prime.txt",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/12_if_else-if_else/01_eval-true/main.go",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/01_getting-started/01_helloWorld/main.go",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/B/Sites/Lighability/companies/views.py",
+				"/B/Sites/Lighability/static/scss/styles.scss",
+				"/B/Sites/Lighability/templates/base.html",
+				"/B/Sites/Lighability/templates/companies/user_detail.html",
+				"/B/Sites/Lighability/templates/index.html",
+				"/B/Sites/Lighability/companies/admin.py",
+				"/B/Sites/Lighability/templates/add_company.html",
+				"/B/Sites/Lighability/static/scss/back.txt",
+				"/B/Sites/Lighability/templates/includes/company_info.html",
+				"/B/Sites/Lighability/templates/company_detail.html",
+				"/B/Sites/Lighability/Lighability/settings.py",
+				"/B/Sites/Lighability/.gitignore",
+				"/B/Sites/Lighability/companies/migrations/0001_initial.py",
+				"/B/Sites/Lighability/companies/migrations/0002_auto_20170316_2120.py",
+				"/B/Sites/Lighability/companies/migrations/0008_auto_20170316_2112.py",
+				"/B/Python/LessonsSkill/intent.json",
+				"/B/Python/LessonsSkill/samples.txt",
+				"/B/Python/LessonsSkill/lambda_function.py",
+				"/B/Python/LessonsSkill/lambdafunction.py",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/template.yaml",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/lambda_function.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/settings.py",
+				"/B/Sites/UnglessLocal/ItemTracker/views.py",
+				"/B/Sites/UnglessLocal/templates/index.html",
+				"/B/Sites/UnglessLocal/qrcodes.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Sites/UnglessLocal/ItemTracker/models.py",
+				"/B/Sites/UnglessLocal/out.png",
+				"/B/Sites/UnglessLocal/ungless.eps",
+				"/B/Sites/UnglessLocal/ungless.svg",
+				"/B/Sites/UnglessLocal/qrcodes/5.png",
+				"/B/Sites/UnglessLocal/qrcodes/1.png",
+				"/B/Sites/UnglessLocal/qrcodes/2.png",
+				"/B/Sites/UnglessLocal/qrcodes/3.png",
+				"/B/Sites/UnglessLocal/qrcodes/4.png",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/B/Sites/UnglessLocal/ungless.png",
+				"/B/Sites/UnglessLocal/qrcodes.png",
+				"/B/Sites/UnglessLocal/media/items/8CIai6e.jpg",
+				"/B/Sites/UnglessLocal/media/items/6d4rnX1.jpg",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 162.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"in",
+					"3",
+					"expand",
+					"POST",
+					"latitude",
+					"%}\n",
+					"companies",
+					"'edit'",
+					"reverse",
+					"companies/",
+					"user_detail.html",
+					"h2",
+					"user_detail",
+					"\">\n",
+					"User,",
+					"company_id",
+					"/')",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"n",
+					"MyUser,",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Coding\\Python"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Coding/Python/deleteline.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 209,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										199,
+										199
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1299,334,83,2254",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 90,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"TEM",
+						"TEMPLATE_DIR"
+					],
+					[
+						"str",
+						"strconv"
+					],
+					[
+						"Login",
+						"LoginRequiredMixin"
+					],
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/DailyHandwritingDjango/settings.py",
+					"settings":
+					{
+						"buffer_size": 3275,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/challenges/views.py",
+					"settings":
+					{
+						"buffer_size": 1134,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/Bot/app.py",
+					"settings":
+					{
+						"buffer_size": 485,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/Bot/obot.py",
+					"settings":
+					{
+						"buffer_size": 123,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/Bot/notifier.py",
+					"settings":
+					{
+						"buffer_size": 1136,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/Bot/config.py",
+					"settings":
+					{
+						"buffer_size": 132,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/templates/old_challenges.html",
+					"settings":
+					{
+						"buffer_size": 256,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/challenges/models.py",
+					"settings":
+					{
+						"buffer_size": 1058,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 418,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/templates/index.html",
+					"settings":
+					{
+						"buffer_size": 1704,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/.gitignore",
+					"settings":
+					{
+						"buffer_size": 15,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nGitGutter\n---------\n\n  1.6.0:\n  ------\n  \n    Fix:\n     - Possible import issue.\n     - Remove git diff command line argument '--indent-heuristic'. (Issue #403)\n     - Typo in GitGutter.sublime-settings\n  \n    README:\n     - Fix minimum requirements for diff popup to ST 3080+\n  \n  \n  💛 Git Gutter? Want to support development?\n  \n  I've teamed up with Wes Bos to offer the following discounts:\n  \n  +------------------------------------------------+\n  |                                                |\n  |   Use the coupon code GITGUTTER for $10 off    |\n  |                                                |\n  +------------------------------------------------+\n  \n  🏅 ⭐ ES6 ⭐\n  \n  👉 ES6.io/friend/GITGUTTER\n  \n  🏅 ⭐ Sublime Text Book ⭐\n  \n  👉 SublimeTextBook.com/friend/GITGUTTER\n  \n  🏅 ⭐ React For Beginners ⭐\n  \n  👉 ReactForBeginners.com/friend/GITGUTTER\n  \n  \n  Join 15,000 other developers already learning with Wes Bos.\n  \n  These are fantastic resources - 100% money back guarantee! 🌟\n\n  1.6.0-rc.1\n  ----------\n  \n    Feature:\n     - Add option to enable/disable GitGutter (Issue #161)\n     - Add gutter icon themes 'Bars' and 'Bars Thin' (Issue #392)\n     - Add ignore_whitespace: \"space\" option.\n  \n    Fix:\n     - Per-Project settings don't work at all\n     - Avoid double loading of python modules. (Issue #396)\n     - Settings won't apply without restart of ST (Issue #184)\n     - Compare Against quick panels are broken by multiline commit messages\n     - Bug in protected region handling for ignored/untracked files\n     - Compatibility issue with ST3 on Windows XP due to symlinks (PR #374)\n  \n    Enhancement:\n     - Reduce package loading time by 50%\n     - Update gutter icons of all visible views after selecting new compare target\n  \n    README:\n     - Update Per-Project paragraph to reflect latest changes\n",
+					"settings":
+					{
+						"buffer_size": 1881,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/B/Sites/DailyHandwritingDjango/DailyHandwritingDjango/urls.py",
+					"settings":
+					{
+						"buffer_size": 287,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax css",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax scs",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 747.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Sites/DailyHandwritingDjango",
+				"/B/Sites/DailyHandwritingDjango/Bot",
+				"/B/Sites/DailyHandwritingDjango/challenges",
+				"/B/Sites/DailyHandwritingDjango/challenges/migrations",
+				"/B/Sites/DailyHandwritingDjango/DailyHandwritingDjango",
+				"/B/Sites/DailyHandwritingDjango/static",
+				"/B/Sites/DailyHandwritingDjango/templates"
+			],
+			"file_history":
+			[
+				"/B/Sites/DailyHandwritingDjango/Bot/config.py",
+				"/B/Sites/DailyHandwritingDjango/Bot/usernames.txt",
+				"/B/Sites/DailyHandwritingDjango/Bot/notifier.py",
+				"/B/Sites/DailyHandwritingDjango/challenges/tasks.py",
+				"/B/Sites/DailyHandwritingDjango/challenges/admin.py",
+				"/B/Sites/DailyHandwritingDjango/db.sqlite3",
+				"/B/Sites/DailyHandwritingDjango/challenges/migrations/0004_auto_20170416_1830.py",
+				"/B/Coding/Python/prime.txt",
+				"/B/Coding/Go/GeneralSrc/prime.txt",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/12_if_else-if_else/01_eval-true/main.go",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/01_getting-started/01_helloWorld/main.go",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/B/Sites/Lighability/companies/views.py",
+				"/B/Sites/Lighability/static/scss/styles.scss",
+				"/B/Sites/Lighability/templates/base.html",
+				"/B/Sites/Lighability/templates/companies/user_detail.html",
+				"/B/Sites/Lighability/templates/index.html",
+				"/B/Sites/Lighability/companies/admin.py",
+				"/B/Sites/Lighability/templates/add_company.html",
+				"/B/Sites/Lighability/static/scss/back.txt",
+				"/B/Sites/Lighability/templates/includes/company_info.html",
+				"/B/Sites/Lighability/templates/company_detail.html",
+				"/B/Sites/Lighability/Lighability/settings.py",
+				"/B/Sites/Lighability/.gitignore",
+				"/B/Sites/Lighability/companies/migrations/0001_initial.py",
+				"/B/Sites/Lighability/companies/migrations/0002_auto_20170316_2120.py",
+				"/B/Sites/Lighability/companies/migrations/0008_auto_20170316_2112.py",
+				"/B/Python/LessonsSkill/intent.json",
+				"/B/Python/LessonsSkill/samples.txt",
+				"/B/Python/LessonsSkill/lambda_function.py",
+				"/B/Python/LessonsSkill/lambdafunction.py",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/template.yaml",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/lambda_function.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/settings.py",
+				"/B/Sites/UnglessLocal/ItemTracker/views.py",
+				"/B/Sites/UnglessLocal/templates/index.html",
+				"/B/Sites/UnglessLocal/qrcodes.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Sites/UnglessLocal/ItemTracker/models.py",
+				"/B/Sites/UnglessLocal/out.png",
+				"/B/Sites/UnglessLocal/ungless.eps",
+				"/B/Sites/UnglessLocal/ungless.svg",
+				"/B/Sites/UnglessLocal/qrcodes/5.png",
+				"/B/Sites/UnglessLocal/qrcodes/1.png",
+				"/B/Sites/UnglessLocal/qrcodes/2.png",
+				"/B/Sites/UnglessLocal/qrcodes/3.png",
+				"/B/Sites/UnglessLocal/qrcodes/4.png",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/B/Sites/UnglessLocal/ungless.png",
+				"/B/Sites/UnglessLocal/qrcodes.png",
+				"/B/Sites/UnglessLocal/media/items/8CIai6e.jpg",
+				"/B/Sites/UnglessLocal/media/items/6d4rnX1.jpg",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 162.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"id",
+					"STATIC_ROOT",
+					"in",
+					"3",
+					"expand",
+					"POST",
+					"latitude",
+					"%}\n",
+					"companies",
+					"'edit'",
+					"reverse",
+					"companies/",
+					"user_detail.html",
+					"h2",
+					"user_detail",
+					"\">\n",
+					"User,",
+					"company_id",
+					"/')",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"n",
+					"MyUser,",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Sites\\DailyHandwritingDjango"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 11,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Sites/DailyHandwritingDjango/DailyHandwritingDjango/settings.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3275,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3145,
+										3145
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2784.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/B/Sites/DailyHandwritingDjango/challenges/views.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1134,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/B/Sites/DailyHandwritingDjango/Bot/app.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 485,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										150,
+										150
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"open_with_edit": true,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/B/Sites/DailyHandwritingDjango/Bot/obot.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 123,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										123,
+										123
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"open_with_edit": true,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/B/Sites/DailyHandwritingDjango/Bot/notifier.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1136,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/B/Sites/DailyHandwritingDjango/Bot/config.py",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 132,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/B/Sites/DailyHandwritingDjango/templates/old_challenges.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 256,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12,
+										12
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/B/Sites/DailyHandwritingDjango/challenges/models.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1058,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/B/Sites/DailyHandwritingDjango/templates/base.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 418,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										304,
+										304
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/B/Sites/DailyHandwritingDjango/templates/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1704,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/B/Sites/DailyHandwritingDjango/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15,
+										15
+									]
+								],
+								"settings":
+								{
+									"git_gutter_enabled": true,
+									"open_with_edit": true,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1881,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1881,
+										1881
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"default_dir": "B:\\Sites\\DailyHandwritingDjango",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/B/Sites/DailyHandwritingDjango/DailyHandwritingDjango/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 287,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										246,
+										246
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1299,353,83,2273",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 91,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"profile",
+						"profile_picture"
+					],
+					[
+						"get_",
+						"get_object_or_404〔module〕"
+					],
+					[
+						"get_object",
+						"get_object_or_404"
+					],
+					[
+						"Login",
+						"LoginRequiredMixin"
+					],
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Sites/Lighability/companies/forms.py",
+					"settings":
+					{
+						"buffer_size": 885,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/Lighability/urls.py",
+					"settings":
+					{
+						"buffer_size": 1546,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/templates/confirm_company_delete.html",
+					"settings":
+					{
+						"buffer_size": 284,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/templates/add_company.html",
+					"settings":
+					{
+						"buffer_size": 7440,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/companies/views.py",
+					"settings":
+					{
+						"buffer_size": 9125,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/templates/search_results.html",
+					"settings":
+					{
+						"buffer_size": 656,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/static/scss/styles.scss",
+					"settings":
+					{
+						"buffer_size": 7231,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/templates/user_profile.html",
+					"settings":
+					{
+						"buffer_size": 2305,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/companies/models.py",
+					"settings":
+					{
+						"buffer_size": 3435,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/Lighability/settings.py",
+					"settings":
+					{
+						"buffer_size": 3621,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/templates/update_company.html",
+					"settings":
+					{
+						"buffer_size": 308,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/templates/includes/company_info.html",
+					"settings":
+					{
+						"buffer_size": 1486,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/templates/home.html",
+					"settings":
+					{
+						"buffer_size": 2546,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 2571,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Sites/Lighability/templates/company_detail.html",
+					"settings":
+					{
+						"buffer_size": 141,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax css",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax scs",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 747.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Sites/Lighability",
+				"/B/Sites/Lighability/companies",
+				"/B/Sites/Lighability/Lighability",
+				"/B/Sites/Lighability/media",
+				"/B/Sites/Lighability/static",
+				"/B/Sites/Lighability/static/scss",
+				"/B/Sites/Lighability/templates",
+				"/B/Sites/Lighability/templates/includes"
+			],
+			"file_history":
+			[
+				"/B/Sites/Lighability/Lighability/urls.py",
+				"/B/Sites/Lighability/companies/views.py",
+				"/B/Sites/Lighability/templates/includes/acme.html",
+				"/B/Sites/Lighability/templates/company_detail.html",
+				"/B/Sites/Lighability/templates/login.html",
+				"/B/Sites/Lighability/.gitignore",
+				"/B/Sites/Lighability/companies/mixins.py",
+				"/B/Sites/Lighability/templates/index.html",
+				"/B/Programs/Python/Python36-32/Lib/site-packages/django/contrib/auth/models.py",
+				"/B/Programs/Python/Python36-32/Lib/site-packages/django/core/validators.py",
+				"/B/Sites/Lighability/static/scss/styles.scss",
+				"/B/Sites/Lighability/templates/includes/company_info.html",
+				"/B/Sites/Lighability/templates/register.html",
+				"/B/Sites/Lighability/companies/forms.py",
+				"/B/Sites/Lighability/companies/models.py",
+				"/B/Sites/Lighability/lighability.fcgi",
+				"/B/Sites/Lighability/templates/edit_user.html",
+				"/B/Sites/Lighability/templates/user_profile.html",
+				"/B/Sites/Lighability/templates/add_company.html",
+				"/B/Sites/Lighability/templates/home.html",
+				"/B/Sites/Lighability/templates/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/B/Sites/Lighability/templates/companies/user_detail.html",
+				"/B/Sites/Lighability/companies/admin.py",
+				"/B/Sites/Lighability/static/scss/back.txt",
+				"/B/Sites/Lighability/Lighability/settings.py",
+				"/B/Sites/Lighability/companies/migrations/0001_initial.py",
+				"/B/Sites/Lighability/companies/migrations/0002_auto_20170316_2120.py",
+				"/B/Sites/Lighability/companies/migrations/0008_auto_20170316_2112.py",
+				"/B/Python/LessonsSkill/intent.json",
+				"/B/Python/LessonsSkill/samples.txt",
+				"/B/Python/LessonsSkill/lambda_function.py",
+				"/B/Python/LessonsSkill/lambdafunction.py",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/template.yaml",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/lambda_function.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/settings.py",
+				"/B/Sites/UnglessLocal/ItemTracker/views.py",
+				"/B/Sites/UnglessLocal/templates/index.html",
+				"/B/Sites/UnglessLocal/qrcodes.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Sites/UnglessLocal/ItemTracker/models.py",
+				"/B/Sites/UnglessLocal/out.png",
+				"/B/Sites/UnglessLocal/ungless.eps",
+				"/B/Sites/UnglessLocal/ungless.svg",
+				"/B/Sites/UnglessLocal/qrcodes/5.png",
+				"/B/Sites/UnglessLocal/qrcodes/1.png",
+				"/B/Sites/UnglessLocal/qrcodes/2.png",
+				"/B/Sites/UnglessLocal/qrcodes/3.png",
+				"/B/Sites/UnglessLocal/qrcodes/4.png",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/B/Sites/UnglessLocal/ungless.png",
+				"/B/Sites/UnglessLocal/qrcodes.png",
+				"/B/Sites/UnglessLocal/media/items/8CIai6e.jpg",
+				"/B/Sites/UnglessLocal/media/items/6d4rnX1.jpg",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 162.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"detail",
+					"foursquare",
+					"STATIC_ROOT",
+					"Register",
+					"3",
+					"expand",
+					"POST",
+					"latitude",
+					"%}\n",
+					"companies",
+					"'edit'",
+					"reverse",
+					"companies/",
+					"user_detail.html",
+					"h2",
+					"user_detail",
+					"\">\n",
+					"User,",
+					"company_id",
+					"/')",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"MyUser,",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Sites\\Lighability"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Sites/Lighability/companies/forms.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 885,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										726,
+										726
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/B/Sites/Lighability/Lighability/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1546,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										360,
+										360
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/B/Sites/Lighability/templates/confirm_company_delete.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 284,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25,
+										25
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/B/Sites/Lighability/templates/add_company.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7440,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7111,
+										7117
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 646.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/B/Sites/Lighability/companies/views.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9125,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5538,
+										5538
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3409.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/B/Sites/Lighability/templates/search_results.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 656,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										211,
+										211
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/B/Sites/Lighability/static/scss/styles.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7231,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2599,
+										2599
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Yeti_UI/Icons/Langs/SCSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 414.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/B/Sites/Lighability/templates/user_profile.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2305,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25,
+										25
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/B/Sites/Lighability/companies/models.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3435,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1100,
+										1100
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 261.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/B/Sites/Lighability/Lighability/settings.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3621,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1037,
+										1037
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 480.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/B/Sites/Lighability/templates/update_company.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 308,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										308,
+										308
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/B/Sites/Lighability/templates/includes/company_info.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1486,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										595,
+										595
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"git_gutter_enabled": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/B/Sites/Lighability/templates/home.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2546,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										384,
+										384
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/B/Sites/Lighability/templates/base.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2571,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1756,
+										1756
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/B/Sites/Lighability/templates/company_detail.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 141,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,2079,1925,905,3848",
+			"project": "",
+			"replace":
+			{
+				"height": 110.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"search",
+						"templates\\search_results.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 76,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"str",
+						"strconv"
+					],
+					[
+						"Login",
+						"LoginRequiredMixin"
+					],
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Coding/Go/src/github.com/MaxTheMonster/helloWorld/main.go",
+					"settings":
+					{
+						"buffer_size": 73,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Coding/Go/GeneralSrc/helloworld.go",
+					"settings":
+					{
+						"buffer_size": 808,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Coding/Go/GeneralSrc/testing.go",
+					"settings":
+					{
+						"buffer_size": 396,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Coding/Go/GeneralSrc/primes.go",
+					"settings":
+					{
+						"buffer_size": 702,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Coding/Go/src/github.com/MaxTheMonster/structs.go",
+					"settings":
+					{
+						"buffer_size": 206,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Coding/Go/src/github.com/MaxTheMonster/schemePrograms/main.go",
+					"settings":
+					{
+						"buffer_size": 119,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Coding/Go/src/github.com/MaxTheMonster/website/main.go",
+					"settings":
+					{
+						"buffer_size": 255,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/B/Coding/Go/GeneralSrc/primegen.go",
+					"settings":
+					{
+						"buffer_size": 1636,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/27_code-in-process/98-good-student-code/daniel/Week10/filebrowser/storage.go",
+					"settings":
+					{
+						"buffer_size": 1457,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax css",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax scs",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 747.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Coding/Go",
+				"/B/Coding/Go/src",
+				"/B/Coding/Go/src/github.com",
+				"/B/Coding/Go/src/github.com/MaxTheMonster",
+				"/B/Coding/Go/src/github.com/MaxTheMonster/helloWorld",
+				"/B/Coding/Go/src/github.com/MaxTheMonster/schemePrograms",
+				"/B/Coding/Go/src/github.com/MaxTheMonster/website"
+			],
+			"file_history":
+			[
+				"/B/Coding/Python/prime.txt",
+				"/B/Coding/Go/GeneralSrc/prime.txt",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/12_if_else-if_else/01_eval-true/main.go",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/01_getting-started/01_helloWorld/main.go",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/B/Sites/Lighability/companies/views.py",
+				"/B/Sites/Lighability/static/scss/styles.scss",
+				"/B/Sites/Lighability/templates/base.html",
+				"/B/Sites/Lighability/templates/companies/user_detail.html",
+				"/B/Sites/Lighability/templates/index.html",
+				"/B/Sites/Lighability/companies/admin.py",
+				"/B/Sites/Lighability/templates/add_company.html",
+				"/B/Sites/Lighability/static/scss/back.txt",
+				"/B/Sites/Lighability/templates/includes/company_info.html",
+				"/B/Sites/Lighability/templates/company_detail.html",
+				"/B/Sites/Lighability/Lighability/settings.py",
+				"/B/Sites/Lighability/.gitignore",
+				"/B/Sites/Lighability/companies/migrations/0001_initial.py",
+				"/B/Sites/Lighability/companies/migrations/0002_auto_20170316_2120.py",
+				"/B/Sites/Lighability/companies/migrations/0008_auto_20170316_2112.py",
+				"/B/Python/LessonsSkill/intent.json",
+				"/B/Python/LessonsSkill/samples.txt",
+				"/B/Python/LessonsSkill/lambda_function.py",
+				"/B/Python/LessonsSkill/lambdafunction.py",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/template.yaml",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/lambda_function.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/settings.py",
+				"/B/Sites/UnglessLocal/ItemTracker/views.py",
+				"/B/Sites/UnglessLocal/templates/index.html",
+				"/B/Sites/UnglessLocal/qrcodes.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Sites/UnglessLocal/ItemTracker/models.py",
+				"/B/Sites/UnglessLocal/out.png",
+				"/B/Sites/UnglessLocal/ungless.eps",
+				"/B/Sites/UnglessLocal/ungless.svg",
+				"/B/Sites/UnglessLocal/qrcodes/5.png",
+				"/B/Sites/UnglessLocal/qrcodes/1.png",
+				"/B/Sites/UnglessLocal/qrcodes/2.png",
+				"/B/Sites/UnglessLocal/qrcodes/3.png",
+				"/B/Sites/UnglessLocal/qrcodes/4.png",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/B/Sites/UnglessLocal/ungless.png",
+				"/B/Sites/UnglessLocal/qrcodes.png",
+				"/B/Sites/UnglessLocal/media/items/8CIai6e.jpg",
+				"/B/Sites/UnglessLocal/media/items/6d4rnX1.jpg",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 162.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"in",
+					"3",
+					"expand",
+					"POST",
+					"latitude",
+					"%}\n",
+					"companies",
+					"'edit'",
+					"reverse",
+					"companies/",
+					"user_detail.html",
+					"h2",
+					"user_detail",
+					"\">\n",
+					"User,",
+					"company_id",
+					"/')",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"n",
+					"MyUser,",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Coding\\Go"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Coding/Go/src/github.com/MaxTheMonster/helloWorld/main.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 73,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										73,
+										73
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/Go/Go.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/B/Coding/Go/GeneralSrc/helloworld.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 808,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										460,
+										460
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/Go/Go.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/B/Coding/Go/GeneralSrc/testing.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 396,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										396,
+										396
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/Go/Go.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/B/Coding/Go/GeneralSrc/primes.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 702,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										208,
+										208
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Go/Go.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/B/Coding/Go/src/github.com/MaxTheMonster/structs.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 206,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										206,
+										206
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Go/Go.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/B/Coding/Go/src/github.com/MaxTheMonster/schemePrograms/main.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 119,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										119,
+										119
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/Go/Go.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/B/Coding/Go/src/github.com/MaxTheMonster/website/main.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 255,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										255,
+										255
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/Go/Go.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/B/Coding/Go/GeneralSrc/primegen.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1636,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										525,
+										525
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Go/Go.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 870.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/27_code-in-process/98-good-student-code/daniel/Week10/filebrowser/storage.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1457,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										302,
+										302
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Go/Go.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 32.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1366,786,150,2706",
+			"project": "",
+			"replace":
+			{
+				"height": 110.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 84,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"str",
+						"strconv"
+					],
+					[
+						"Login",
+						"LoginRequiredMixin"
+					],
+					[
+						"DB_",
+						"DB_NAME〔constant〕"
+					],
+					[
+						"DB",
+						"DB_PASSWORD"
+					],
+					[
+						"calculator",
+						"calculatorSquareRoot"
+					],
+					[
+						"main",
+						"mainPageSearch"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/B/Coding/91XBot/get_homework.py",
+					"settings":
+					{
+						"buffer_size": 2171,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/B/Coding/91XBot/bot.py",
+					"settings":
+					{
+						"buffer_size": 4161,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax css",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set syntax scs",
+						"Set Syntax: SCSS"
+					],
+					[
+						"set scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"a file",
+						"A File Icon: Settings"
+					],
+					[
+						"",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"boxy ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"Package sati",
+						"Package Control: Satisfy Dependencies"
+					],
+					[
+						"Box ",
+						"Boxy Theme: Configuration"
+					],
+					[
+						"boxy T",
+						"Boxy Theme: Activation"
+					],
+					[
+						"packagee",
+						"Package Control: Remove Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 747.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/B/Coding/91XBot"
+			],
+			"file_history":
+			[
+				"/B/Coding/Python/prime.txt",
+				"/B/Coding/Go/GeneralSrc/prime.txt",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/12_if_else-if_else/01_eval-true/main.go",
+				"/B/Coding/Go/src/github.com/GoesToEleven/GoLangTraining/01_getting-started/01_helloWorld/main.go",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/B/Sites/Lighability/companies/views.py",
+				"/B/Sites/Lighability/static/scss/styles.scss",
+				"/B/Sites/Lighability/templates/base.html",
+				"/B/Sites/Lighability/templates/companies/user_detail.html",
+				"/B/Sites/Lighability/templates/index.html",
+				"/B/Sites/Lighability/companies/admin.py",
+				"/B/Sites/Lighability/templates/add_company.html",
+				"/B/Sites/Lighability/static/scss/back.txt",
+				"/B/Sites/Lighability/templates/includes/company_info.html",
+				"/B/Sites/Lighability/templates/company_detail.html",
+				"/B/Sites/Lighability/Lighability/settings.py",
+				"/B/Sites/Lighability/.gitignore",
+				"/B/Sites/Lighability/companies/migrations/0001_initial.py",
+				"/B/Sites/Lighability/companies/migrations/0002_auto_20170316_2120.py",
+				"/B/Sites/Lighability/companies/migrations/0008_auto_20170316_2112.py",
+				"/B/Python/LessonsSkill/intent.json",
+				"/B/Python/LessonsSkill/samples.txt",
+				"/B/Python/LessonsSkill/lambda_function.py",
+				"/B/Python/LessonsSkill/lambdafunction.py",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/template.yaml",
+				"/B/Downloads/alexa-skills-kit-color-expert-python/lambda_function.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/settings.py",
+				"/B/Sites/UnglessLocal/ItemTracker/views.py",
+				"/B/Sites/UnglessLocal/templates/index.html",
+				"/B/Sites/UnglessLocal/qrcodes.py",
+				"/B/Sites/UnglessLocal/templates/base.html",
+				"/B/Sites/UnglessLocal/ItemTracker/models.py",
+				"/B/Sites/UnglessLocal/out.png",
+				"/B/Sites/UnglessLocal/ungless.eps",
+				"/B/Sites/UnglessLocal/ungless.svg",
+				"/B/Sites/UnglessLocal/qrcodes/5.png",
+				"/B/Sites/UnglessLocal/qrcodes/1.png",
+				"/B/Sites/UnglessLocal/qrcodes/2.png",
+				"/B/Sites/UnglessLocal/qrcodes/3.png",
+				"/B/Sites/UnglessLocal/qrcodes/4.png",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/B/Sites/UnglessLocal/ungless.png",
+				"/B/Sites/UnglessLocal/qrcodes.png",
+				"/B/Sites/UnglessLocal/media/items/8CIai6e.jpg",
+				"/B/Sites/UnglessLocal/media/items/6d4rnX1.jpg",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/views.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/models.py",
+				"/B/Sites/UnglessLocal/ItemTracker/urls.py",
+				"/B/Sites/UnglessLocal/ItemTracker/admin.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/teams/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/urls.py",
+				"/B/Downloads/django-cbvs/s2v4/djangoal/djangoal/views.py",
+				"/B/Sites/UnglessLocal/UnglessLocal/urls.py",
+				"/B/Sites/JavaScript30/JavaScript30-master/07 - Array Cardio Day 2/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/06 - Type Ahead/style.css",
+				"/B/Sites/JavaScript30/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/03 - CSS Variables/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/04 - Array Cardio Day 1/index-START.html",
+				"/B/Sites/JavaScript30/JavaScript30-master/05 - Flex Panel Gallery/index-START.html",
+				"/B/Sites/MaxUngless/templates/Blog/post.html",
+				"/B/Sites/MaxUngless/manage.py",
+				"/B/Sites/MaxUngless/static/scss/styles.scss",
+				"/B/Sites/MaxUngless/templates/Blog/index.html",
+				"/B/Sites/MaxUngless/templates/Blog/base.html",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/B/Sites/MaxUngless/admin.txt",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/B/Python/learn.py",
+				"/B/Python/tkinter_test.py",
+				"/B/Sites/MaxUngless/static/css/styles.css",
+				"/B/Sites/DailyHandwriting/includes/head.html",
+				"/B/Sites/DailyHandwriting/php/twitter_login.php",
+				"/B/Sites/CodeDictionary/submit/definition.php",
+				"/B/Sites/DailyHandwriting/includes/nav.php",
+				"/B/Sites/DailyHandwriting/help.php",
+				"/B/Sites/DailyHandwriting/php/commentadded.php",
+				"/B/Sites/CodeDictionary/db.php",
+				"/B/Sites/DailyHandwriting/includes/addcomment.php",
+				"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/B/Sites/mongo.js",
+				"/B/Sites/CompanyLogos/game.js",
+				"/B/Sites/CodeDictionary/scss/_styles.scss",
+				"/B/Sites/LeafletMaps/weatherMap.html",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/css/font-awesome.css",
+				"/C/Users/Max/Downloads/font-awesome-4.5.0/font-awesome-4.5.0/fonts/fontawesome-webfont.svg",
+				"/B/Sites/CodeDictionary/binoculars.svg",
+				"/B/Sites/CodeDictionary/latest.php",
+				"/B/Sites/CodeDictionary/admin.php",
+				"/B/Sites/CodeDictionary/tagSearch.php",
+				"/B/Sites/CodeDictionary/search.php",
+				"/B/Sites/CodeDictionary/report.php",
+				"/B/Sites/CodeDictionary/submit/index.html",
+				"/B/Sites/CodeDictionary/index.php",
+				"/B/Sites/CodeDictionary/scss/grid.scss",
+				"/B/Sites/CodeDictionary/gulpfile.js",
+				"/B/Sites/pi.js",
+				"/B/Sites/pi.rb",
+				"/C/Users/Max/Downloads/pi_chudnovsky.py",
+				"/B/Sites/pi.py",
+				"/B/Sites/pi.txt",
+				"/B/Sites/luke.html"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 162.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"in",
+					"3",
+					"expand",
+					"POST",
+					"latitude",
+					"%}\n",
+					"companies",
+					"'edit'",
+					"reverse",
+					"companies/",
+					"user_detail.html",
+					"h2",
+					"user_detail",
+					"\">\n",
+					"User,",
+					"company_id",
+					"/')",
+					"\">\n",
+					"tkinter",
+					"E",
+					"results",
+					"{\n",
+					"alert",
+					";\n",
+					"mysqli_query",
+					"`) ",
+					"});\n",
+					" ",
+					"}\n",
+					"();\n",
+					"console",
+					"/>",
+					"135",
+					"5px",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"n",
+					"MyUser,",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "B:\\Coding\\91XBot"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/B/Coding/91XBot/get_homework.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2171,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2119,
+										2119
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1305.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/B/Coding/91XBot/bot.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4161,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										230,
+										230
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1416,1844,200,3764",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 92,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

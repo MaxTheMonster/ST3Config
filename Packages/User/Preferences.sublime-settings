@@ -18,7 +18,8 @@
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"fade_fold_buttons": false,
 	"font_face": "Roboto Mono",
-	"font_size": 12,
+	"font_size": 11,
+	"git_binary": "C:\\Program Files\\Git\\bin\\git.exe",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -35,6 +36,7 @@
 	"line_padding_top": 2,
 	"sidebar_font_big": true,
 	"spell_check": false,
+	"tab_size": 4,
 	"theme": "Boxy Ocean.sublime-theme",
 	"theme_accent_orange": true,
 	"theme_autocomplete_item_selected_colored": true,
@@ -47,7 +49,7 @@
 	"theme_tab_line_size_lg": true,
 	"theme_tab_rounded": true,
 	"theme_tab_selected_underlined": true,
-	"theme_tab_size_xxl": true,
+	"theme_tab_size_lg": true,
 	"theme_tab_width_auto": true,
 	"wide_caret": true,
 	"word_wrap": true

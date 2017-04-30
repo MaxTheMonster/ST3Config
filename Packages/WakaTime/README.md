@@ -9,19 +9,15 @@ Installation
 
 1. Install [Package Control](https://packagecontrol.io/installation).
 
-2. Using [Package Control](https://packagecontrol.io/docs/usage):
+2. In Sublime, press `ctrl+shift+p`(Windows, Linux) or `cmd+shift+p`(OS X).
 
-  a) Inside Sublime, press `ctrl+shift+p`(Windows, Linux) or `cmd+shift+p`(OS X).
+3. Type `install`, then press `enter` with `Package Control: Install Package` selected.
 
-  b) Type `install`, then press `enter` with `Package Control: Install Package` selected.
+4. Type `wakatime`, then press `enter` with the `WakaTime` plugin selected.
 
-  c) Type `wakatime`, then press `enter` with the `WakaTime` plugin selected.
+5. Enter your [api key](https://wakatime.com/settings#apikey), then press `enter`.
 
-3. Enter your [api key](https://wakatime.com/settings#apikey), then press `enter`.
-
-4. Use Sublime and your time will be tracked for you automatically.
-
-5. Visit https://wakatime.com/dashboard to see your logged time.
+6. Use Sublime and your coding activity will be displayed on your [WakaTime dashboard](https://wakatime.com).
 
 
 Screen Shots
@@ -51,6 +47,7 @@ First, turn on debug mode in your `WakaTime.sublime-settings` file.
 
 Add the line: `"debug": true`
 
-Then, open your Sublime Console with `View -> Show Console` to see the plugin executing the wakatime cli process when sending a heartbeat. Also, tail your `$HOME/.wakatime.log` file to debug wakatime cli problems.
+Then, open your Sublime Console with `View -> Show Console` ( CTRL + \` ) to see the plugin executing the wakatime cli process when sending a heartbeat.
+Also, tail your `$HOME/.wakatime.log` file to debug wakatime cli problems.
 
 For more general troubleshooting information, see [wakatime/wakatime#troubleshooting](https://github.com/wakatime/wakatime#troubleshooting).

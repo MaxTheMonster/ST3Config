@@ -3,6 +3,31 @@ History
 -------
 
 
+7.0.20 (2017-04-10)
+++++++++++++++++++
+
+- Fix install instructions formatting.
+
+
+7.0.19 (2017-04-10)
+++++++++++++++++++
+
+- Remove /var/www/ from default ignored folders.
+
+
+7.0.18 (2017-03-16)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v8.0.0.
+- No longer creating ~/.wakatime.cfg file, since only using Sublime settings.
+
+
+7.0.17 (2017-03-01)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v7.0.4.
+
+
 7.0.16 (2017-02-20)
 ++++++++++++++++++
 
